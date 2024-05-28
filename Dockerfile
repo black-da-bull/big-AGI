@@ -1,5 +1,5 @@
 # Base
-FROM node:18-alpine AS base
+FROM node:18.20.3-alpine AS base
 ENV NEXT_TELEMETRY_DISABLED 1
 
 
