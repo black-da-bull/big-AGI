@@ -34,7 +34,7 @@ file.
 #### Run using *docker* 🚀
 
 ```bash
-docker run -d -p 3000:3000 ghcr.io/enricoros/big-agi:latest
+docker run -d -p 3000:3000 blackdabull/big-agi:1.0.1a
 ```
 
 #### Run using *docker-compose* 🚀
