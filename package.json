@@ -38,7 +38,7 @@
     "@trpc/client": "11.0.0-rc.802",
     "@trpc/next": "11.0.0-rc.802",
     "@trpc/react-query": "11.0.0-rc.802",
-    "@trpc/server": "11.0.0-rc.802",
+    "@trpc/server": "11.1.1",
     "@vercel/analytics": "^1.5.0",
     "@vercel/speed-insights": "^1.2.0",
     "browser-fs-access": "^0.35.0",
