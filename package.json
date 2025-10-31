@@ -70,7 +70,7 @@
     "superjson": "^2.2.2",
     "tesseract.js": "^6.0.1",
     "tiktoken": "^1.0.21",
-    "turndown": "^7.2.0",
+    "turndown": "^7.2.2",
     "zod": "^3.25.63",
     "zod-to-json-schema": "^3.24.5",
     "zustand": "^5.0.5"
